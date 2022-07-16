@@ -1,3 +1,2 @@
 # fraternal-order
-Drawing
 developing
