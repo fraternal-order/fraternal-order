@@ -120,4 +120,3 @@ public abstract class GameCore extends JFrame {
         return this;
     }
 }
-[代码运行效果截图]
